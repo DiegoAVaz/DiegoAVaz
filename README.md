@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Alves Vaz</h1>
 <h3 align="center">A passionate dev student from Brazil</h3>
 
-- 🌱 I’m currently learning **JavaScript, C#, MySQL, HTML, CSS**
+- 🌱 I’m currently learning **JavaScript, ReactJS, Firebase, MySQL, HTML, CSS**
 
 - 📫 How to reach me **diegoalves32@gmail.com**
 
